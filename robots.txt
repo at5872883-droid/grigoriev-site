@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://at5872883-droid.github.io/grigoriev-site/sitemap.xml
